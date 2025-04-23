@@ -1,2 +1,2 @@
 asdf = 1 /print(asdf)
-[Google Colab で開く](https://www.google.com)
+[Rui Momoi week1](https://colab.research.google.com/drive/1mnEM2XISf-nixqwbnccEjY9ocD3DyV06)
